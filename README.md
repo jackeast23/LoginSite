@@ -19,7 +19,7 @@ Use pip on windows and pip3 on unix based systems
 - pip install flask-sqlalchemy
 
 The two images below show the login page, which allows the user to either login or access the sign up page
-<img src="images/login.png" width="300"> <img src="images/login_ham.png" width="300">
+<img src="images/login.png" width="500"> <img src="images/login_ham.png" width="500">
 
 The next two images show the notes page, which allows the user to create and delete notes and logout
-<img src="images/note.png" width="300"> <img src="images/note_ham.png" width="300">
+<img src="images/note.png" width="500"> <img src="images/note_ham.png" width="500">
