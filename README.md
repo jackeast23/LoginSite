@@ -15,3 +15,5 @@ Use pip on windows and pip3 on unix based systems
 - pip install flask-sqlalchemy
 
 <img src="images/login.png" width="300"> <img src="images/login_ham.png" width="300">
+
+<img src="images/note.png" width="300"> <img src="images/note_ham.png" width="300">
