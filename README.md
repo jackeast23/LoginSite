@@ -1,23 +1,10 @@
-# Flask Web App Tutorial
+# PythonSite
 
-## Setup & Installtion
-
-Make sure you have the latest version of Python installed.
-
-```bash
-git clone <repo-url>
-```
-
-```bash
-pip install -r requirements.txt
-```
-
-## Running The App
-
-```bash
-python main.py
-```
-
-## Viewing The App
-
-Go to `http://127.0.0.1:5000`
+A site that uses Flask a Python web framework to create a database and user authentification
+With this site a user can create an account, login, create/delete notes, logout, and access those notes whenever they want.
+To use this site the user must insall the following:
+Make sure you have Python3 installed 
+Use pip on windows and pip3 on unix based systems
+pip install flask
+pip install flask-login
+pip install flask-sqlalchemy
