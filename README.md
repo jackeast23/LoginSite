@@ -23,3 +23,7 @@ The two images below show the login page, which allows the user to either login 
 
 The next two images show the notes page, which allows the user to create and delete notes and logout
 <img src="images/note.png" width="500"> <img src="images/note_ham.png" width="500">
+
+jackemail@email.com
+password
+buy eggs
